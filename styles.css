@@ -65,3 +65,10 @@ footer {
 .btn-amazon:hover {
   background-color: #e68a00;
 }
+
+.produit img {
+    display: block;
+    margin: 0 auto 10px auto;
+    width: 100%;
+    max-width: 200px;
+}
