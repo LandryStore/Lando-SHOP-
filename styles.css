@@ -47,7 +47,7 @@ footer {
     width: 100%;
 }
 
-buy-button {
+.buy-button {
   display: inline-block;
   background-color: #ff9900;
   color: #fff;
@@ -59,6 +59,6 @@ buy-button {
   font-family: Arial, sans-serif;
   transition: background-color 0.2s;
 }
-buy-button:hover {
+.buy-button:hover {
   background-color: #e68a00;
 }
