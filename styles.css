@@ -58,6 +58,8 @@ footer {
   font-size: 1em;
   font-family: Arial, sans-serif;
   transition: background-color 0.2s;
+  vertical-allign: middle;
+  white-space: nowrap;  
 }
 
 .btn-amazon:hover {
