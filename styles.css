@@ -47,10 +47,10 @@ footer {
     width: 100%;
 }
 
-.buy-button {
+.btn-amazon {
   display: inline-block;
   background-color: #ff9900;
-  color: #fff;
+  color: white;
   font-weight: bold;
   text-decoration: none;
   padding: 12px 20px;
@@ -59,6 +59,7 @@ footer {
   font-family: Arial, sans-serif;
   transition: background-color 0.2s;
 }
-.buy-button:hover {
+
+.btn-amazon:hover {
   background-color: #e68a00;
 }
