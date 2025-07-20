@@ -90,3 +90,7 @@ footer {
     width: 100%;
     max-width: 200px;
 }
+
+main {
+    text-align: left;
+}
