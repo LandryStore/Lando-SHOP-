@@ -36,8 +36,8 @@ main {
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
-    width: 350px;
-    height: 350px;
+    width: 220px;
+    height: 250px;
     margin: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     display: flex;
@@ -45,6 +45,15 @@ main {
     justify-content: space-between;
     align-items: center;
     text-align: center;
+}
+.produit {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1000px
+    margin: 0 auto;
+    padding: 20px;
 }
 footer {
     background-color: #333;
