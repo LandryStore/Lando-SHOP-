@@ -120,3 +120,15 @@ footer {
   flex-direction: column;
   gap: 20px;
 }
+#apropos {
+  text-align: left;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+}
+# {
+  text-align: left;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+}
