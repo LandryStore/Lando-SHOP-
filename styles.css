@@ -48,13 +48,15 @@ main {
     text-align: center;
 }
 .produits {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    max-width: 1000px
-    margin: 0 auto;
-    padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 }
 footer {
     background-color: #333;
