@@ -98,3 +98,17 @@ footer {
     padding: 20px;
     text-align: left;
 }
+.produits-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.colonne-gauche,
+.colonne-droite {
+  width: 48%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
