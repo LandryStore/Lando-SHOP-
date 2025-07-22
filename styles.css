@@ -114,3 +114,9 @@ footer {
   flex-direction: column;
   gap: 20px;
 }
+.colonne-gauche, .colonne-droite {
+  width: 48%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
